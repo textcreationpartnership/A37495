@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Edenbrough giving an account of the behaviour of three notorious traytors who were there executed, March 11, 1681 [i.e. 1682] : also the last speech of William Gogar, (the most notorious traytor) at the place of executions.</title>
+            <author>T. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37495</idno>
+            <idno type="STC">Wing D92</idno>
+            <idno type="STC">ESTC R36067</idno>
+            <idno type="EEBO-CITATION">15599244</idno>
+            <idno type="OCLC">ocm 15599244</idno>
+            <idno type="VID">104038</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104038)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1590:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Edenbrough giving an account of the behaviour of three notorious traytors who were there executed, March 11, 1681 [i.e. 1682] : also the last speech of William Gogar, (the most notorious traytor) at the place of executions.</title>
+                  <author>T. D.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end of p. [1]: T.D.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  England.</term>
+               <term>Presbyterians.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:104038:1" rendition="simple:additions"/>
+            <head>
+               <hi>A LETTER FROM EDENBROUGH, Giving an Account of the Behaviour of Three Notorious TRAYTORS, Who were there Executed,</hi> March, 11. 1681. <hi>ALSO The laſt SPEECH OF WILLIAM GOGAR, [The moſt Notorious Traytor] at the place of Execution.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Cannot omit to give you a ſhort Accompt of the <hi>Tryal</hi> and <hi>Execution</hi> of Three Notorious Traytors, which were Hang'd in this City Yeſter<g ref="char:EOLhyphen"/>day. At their Tryals, They Confeſsed confidently all that was laid to their Charge, and mantain'd all their Actions and Proceedings to be Just; As their being Perſonally in the late <hi>Rebellion,</hi> and in the <hi>Bond of Combination,</hi> which always obliges them to be Faithful to one ano<g ref="char:EOLhyphen"/>ther, and all thoſe that take their Parts; To mantain the <hi>Covenant,</hi> and Eſtabliſh the <hi>True Presbyterian Church;</hi> That it was Lawful to <hi>Kill the King,</hi> and all ſuch as ſhould take his Part, for <hi>Breaking the Covenant,</hi> and as <hi>Enemies to Chriſt and the People of God;</hi> And that the <hi>Excommunicating the KING was Juſt,</hi> &amp;c. At the Gallows there was a <hi>Pardon</hi> offer'd, if they would Repent, and ask Forgiveneſs; But they refuſed all Grace there, as at their <hi>Tryals;</hi> all anſwered, That they would not receive a <hi>Pardon</hi> from ſuch <hi>Murderers,</hi> [meaning the <hi>King and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Councel here;]</hi> Another ſaid, <hi>He owned the</hi> King <hi>as the</hi> King <hi>owned the</hi> Covenant. In fine, They Dyed Obſtinate and Im<g ref="char:EOLhyphen"/>penitent, expreſſing Great Zeal for their <hi>Cauſe,</hi> but no <hi>Charity;</hi> For they neither asked God nor Man Forgiveneſs, nor Forgave any. This Incloſed is the Exact Speech of one of them. No more, but all True Service, from,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <dateline>Edenb<gap reason="illegible" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>ogh <date>March <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g> 168<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</date>
+               </dateline>
+               <signed>Your Humble Servant, <hi>T. D.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="scaffold_speech">
+            <pb facs="tcp:104038:2"/>
+            <head>The Laſt SPEECH and Teſtimony og WILLIAM GOGAR, One of the Three Deſperate and Incorrigible Traytors, Executed at the <hi>Graſs-market</hi> in EDENBROUGH, the 11<hi>th.</hi> Day of <hi>March,</hi> 1681.</head>
+            <head type="sub">For Diſowning His Sacred Majeſties Authority, and Owning and Adhering to the Bloody and Murdering Principles contained in that Execrable De<g ref="char:EOLhyphen"/>claration at <hi>Sanquar, Cargil's</hi> Traiterous Covenant, and Sacrilegious Excommunicating of the KING, by that Arch-Traytor <hi>Cargil,</hi> and avowing of themſelves to be bound in Conſcience, and by their Covenant, to Murder the KING, and all that ſerve under Him; being Armed [the time they were apprehended] for that purpoſe.</head>
+            <opener>
+               <salute>MEN and Brethren;</salute>
+            </opener>
+            <p>Theſe are to ſhew, that I am come here this Day to lay down my Life for owning Chriſt, and his Truths; And inſomuch as We are Calumniated and Re<g ref="char:EOLhyphen"/>proached by Lying Names, and Dreadful Upbraiding of Us; with ſaying, That We are not led by the Scriptures; And ſay, We have taken other Rules to walk by, <hi>&amp;c.</hi> I take the Great God to be Witneſs againſt all and every one of them, That I take the Word of God to be my Rule, and I never Deſign'd any thing but Honeſty and Faithfulneſs to Chriſt: And for owning of Chriſt and the Scriptures, this Day I am Murdered; for adhe<g ref="char:EOLhyphen"/>ring to the Born-down-truth I am Condemn'd to Die; And I alſo bear my Teſtimony, and bear Witneſs againſt all the Apoſtate Miniſters this Day that have taken Favour at the Enemies Hands. The only thing they take away my Life for, is, Becauſe I diſown'd all thoſe Bloody Traytors not to be Magiſtrates, which the Word of God caſts off, and We are bound in Conſcience &amp; Covenant to diſown all ſuch as are Enemies to God, and which they are avow'd and open Enemies to Chriſt; <hi>And they have made void my Word ſaid the Lord:</hi> Say what you will Devils, ſay Wretches, ſay Enemies, ſay what you will, We are owning the Truth of Chriſt, and his writ<g ref="char:EOLhyphen"/>ten Word; And condemn me in my Judgment who will, I leave my Blood on One and All that ſays we are not led by the Scrip<g ref="char:EOLhyphen"/>tures: I leave my Blood upon You again to be a Witneſs againſt You, and a Condemnation in the Great Day of Judgement. I have no more to ſay, I think this may mitigate all your Rage, <hi>&amp;c.</hi> I leave his Enemies to his Curſe, to be Puniſhed unto everlaſting Wrath, for now and ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>Sic Subſcribitur, <hi>WIL. GOGAR.</hi>
+               </signed>
+               <pb facs="tcp:104038:2"/>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
